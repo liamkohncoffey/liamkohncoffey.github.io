@@ -1,164 +1,126 @@
 {
-    "products" : [
-      {
-        "productId": 1,
-        "productName": "Product Name 1",
-        "productType": "Anime",
-        "productLocation": "Figure",
-        "productCode": "GDN-0011",
-        "releaseDate": "March 19, 2019",
-        "description": "Sed mi ex, elementum et eros non, sollicitudin tincidunt purus. Ut vitae gravida massa. Ut malesuada risus sed quam molestie feugiat ac et quam. Quisque semper tellus vitae ex aliquet vestibulum. Praesent euismod erat at nisi iaculis, vitae bibendum quam ultricies. Fusce auctor posuere ipsum, vitae eleifend ipsum rutrum in. Aenean ut commodo nibh.",
-        "price": 19.95,
-        "disabled": true,
-        "disabledMessage": "SOLD OUT",
-        "imageUrl": "assets/images/gallery_three.jpg",
-        "images": [
-          "assets/images/gallery_five.jpg",
-          "assets/images/gallery_eight.jpg",
-          "assets/images/gallery_five.jpg",
-          "assets/images/gallery_three.jpg"
-        ]
-      },
-      {
-        "productId": 2,
-        "productName": "Product Name 2",
-        "productType": "Anime",
-        "productLocation": "Figure",
-        "productCode": "GDN-0023",
-        "releaseDate": "March 18, 2019",
-        "description": "Sed mi ex, elementum et eros non, sollicitudin tincidunt purus. Ut vitae gravida massa. Ut malesuada risus sed quam molestie feugiat ac et quam. Quisque semper tellus vitae ex aliquet vestibulum. Praesent euismod erat at nisi iaculis, vitae bibendum quam ultricies. Fusce auctor posuere ipsum, vitae eleifend ipsum rutrum in. Aenean ut commodo nibh.",
-        "price": 32.99,
-        "disabled": false,
-        "disabledMessage": "",
-        "selections":[
-          {
-            "title":"fingers",
-            "description":"Fingers",
-            "options":[
-              "Bone",
-              "Fancy",
-              "Cool"
-            ]
-          },
-          {
-            "title":"Hats",
-            "description":"Hats",
-            "options":[
-              "Bone",
-              "Fancy",
-              "Cool"
-            ]
-          },
-          {
-            "title":"Shoes",
-            "description":"Shoes",
-            "options":[
-              "Bone",
-              "Fish",
-              "Fancy"
-            ]
-          }
-        ],
-        "imageUrl": "assets/images/gallery_eight.jpg",
-        "images": [
-          "assets/images/gallery_five.jpg",
-          "assets/images/gallery_eight.jpg",
-          "assets/images/gallery_five.jpg",
-          "assets/images/gallery_three.jpg"
-        ]
-      },
-      {
-        "productId": 5,
-        "productName": "Product Name 3",
-        "productType": "Anime",
-        "productLocation": "Figure",
-        "productCode": "TBX-0048",
-        "releaseDate": "May 21, 2019",
-        "description": "Sed mi ex, elementum et eros non, sollicitudin tincidunt purus. Ut vitae gravida massa. Ut malesuada risus sed quam molestie feugiat ac et quam. Quisque semper tellus vitae ex aliquet vestibulum. Praesent euismod erat at nisi iaculis, vitae bibendum quam ultricies. Fusce auctor posuere ipsum, vitae eleifend ipsum rutrum in. Aenean ut commodo nibh.",
-        "price": 8.90,
-        "disabled": false,
-        "disabledMessage": "",
-        "imageUrl": "assets/images/gallery_five.jpg",
-        "images": [
-          "assets/images/gallery_five.jpg",
-          "assets/images/gallery_eight.jpg",
-          "assets/images/gallery_five.jpg",
-          "assets/images/gallery_three.jpg"
-        ]
-      },
-      {
-        "productId": 8,
-        "productName": "Product Name 4",
-        "productType": "Misc",
-        "productLocation": "Misc",
-        "productCode": "TBX-0022",
-        "releaseDate": "May 15, 2019",
-        "description": "Sed mi ex, elementum et eros non, sollicitudin tincidunt purus. Ut vitae gravida massa. Ut malesuada risus sed quam molestie feugiat ac et quam. Quisque semper tellus vitae ex aliquet vestibulum. Praesent euismod erat at nisi iaculis, vitae bibendum quam ultricies. Fusce auctor posuere ipsum, vitae eleifend ipsum rutrum in. Aenean ut commodo nibh.",
-        "price": 11.55,
-        "disabled": false,
-        "disabledMessage": "",
-        "imageUrl": "assets/images/gallery_three.jpg",
-        "images": [
-          "assets/images/gallery_five.jpg",
-          "assets/images/gallery_eight.jpg",
-          "assets/images/gallery_five.jpg",
-          "assets/images/gallery_three.jpg"
-        ]
-      },
-      {
-        "productId": 10,
-        "productName": "Product Name 5",
-        "productType": "Misc",
-        "productLocation": "Misc",
-        "productCode": "GMG-0042",
-        "releaseDate": "October 15, 2018",
-        "description": "Sed mi ex, elementum et eros non, sollicitudin tincidunt purus. Ut vitae gravida massa. Ut malesuada risus sed quam molestie feugiat ac et quam. Quisque semper tellus vitae ex aliquet vestibulum. Praesent euismod erat at nisi iaculis, vitae bibendum quam ultricies. Fusce auctor posuere ipsum, vitae eleifend ipsum rutrum in. Aenean ut commodo nibh.",
-        "price": 35.95,
-        "disabled": false,
-        "disabledMessage": "",
-        "selections":[
-          {
-            "title":"fingers",
-            "description":"Fingers",
-            "options":[
-              "Bone",
-              "Fancy",
-              "Cool"
-            ]
-          },
-          {
-            "title":"Hats",
-            "description":"Hats",
-            "options":[
-              "Bone",
-              "Fancy",
-              "Cool"
-            ]
-          },
-          {
-            "title":"Shoes",
-            "description":"Shoes",
-            "options":[
-              "Bone",
-              "Fish",
-              "Fancy"
-            ]
-          }
-        ],
-        "imageUrl": "assets/images/gallery_four.jpg",
-        "images": [
-          "assets/images/gallery_five.jpg",
-          "assets/images/gallery_eight.jpg",
-          "assets/images/gallery_five.jpg",
-          "assets/images/gallery_three.jpg"
-        ]
-      }
-    ],
-      "gallery":[
-        "assets/images/gallery_five.jpg",
-        "assets/images/gallery_eight.jpg",
-        "assets/images/gallery_five.jpg",
-        "assets/images/gallery_three.jpg"
-    ]
-  }
-  
+  "gallery" : [ "assets/images/gallery_eight.png", "assets/images/gallery_two.png", "assets/images/gallery_six.png", "assets/images/gallery_one.png", "assets/images/gallery_four.png", "assets/images/gallery_three.png", "assets/images/gallery_seven.png", "assets/images/gallery_five.png" ],
+  "products" : [ {
+    "description" : "Handmade resin character from the game, Among Us. </br>  This set is 2x character that can be reassembled into a crewmate, an imposter or a corpse. </br> The pieces included are: </br> 2x Character body </br> 2x Hat </br> 1x Imposter teeth set </br> 1x Corpse bone </br> 1x Imposter backpack </br> 1x Crew backpack </br> 1x Imposter spike </br> 1x Cracked mask </br> 1x Normal mask",
+    "disabled" : false,
+    "disabledMessage" : "SOLD OUT",
+    "imageUrl" : "assets/images/products/product_three.png",
+    "images" : [ "assets/images/products/product_four.png", "assets/images/products/product_five.png", "assets/images/products/product_one.png", "assets/images/products/product_two.png" ],
+    "price" : 80,
+    "productCode" : "AMU-01",
+    "productId" : 1,
+    "productLocation" : "Figure",
+    "productName" : "Imposter and Crewmate Set",
+    "productType" : "Among Us",
+    "releaseDate" : "March 19, 2019",
+    "selections" : [ {
+      "description" : "The hat for the crewmate",
+      "options" : [ "Wizard", "Cheese", "Viking", "Pool Ring", "Leaf", "Custom" ],
+      "title" : "Crewmate hat"
+    }, {
+      "description" : "The colour of the crewmate",
+      "options" : [ "Lime green", "Dark green", "Blue", "White", "Red", "Orange", "Custom" ],
+      "title" : "Crewmate colour"
+    }, {
+      "description" : "The hat for the imposter",
+      "options" : [ "Wizard", "Cheese", "Viking", "Pool Ring", "Leaf", "Custom" ],
+      "title" : "Imposter hat"
+    }, {
+      "description" : "The colour of the imposter",
+      "options" : [ "Lime green", "Dark green", "Blue", "White", "Red", "Orange", "Custom" ],
+      "title" : "Imposter colour"
+    } ]
+  }, {
+    "description" : "Handmade resin character from the game, Among Us. </br> This set is 1x character that can be reassembled into a crewmate, an imposter or a corpse. </br> The pieces included are: </br> 1x Character body </br> 1x Hat </br> 1x Imposter teeth set </br> 1x Corpse bone </br> 1x Imposter backpack </br> 1x Crew backpack </br> 1x Imposter spike </br> 1x Cracked mask </br> 1x Normal mask",
+    "disabled" : true,
+    "disabledMessage" : "SOLD OUT",
+    "imageUrl" : "assets/images/products/product_four.png",
+    "images" : [ "assets/images/products/product_five.png", "assets/images/products/product_one.png", "assets/images/products/product_two.png" ],
+    "price" : 50,
+    "productCode" : "AMU-02",
+    "productId" : 2,
+    "productLocation" : "Figure",
+    "productName" : "Imposter Set",
+    "productType" : "Among Us",
+    "releaseDate" : "March 19, 2019",
+    "selections" : [ {
+      "description" : "The hat for the crewmate",
+      "options" : [ "Wizard", "Cheese", "Viking", "Pool Ring", "Leaf", "Custom" ],
+      "title" : "Crewmate hat"
+    }, {
+      "description" : "The colour of the crewmate",
+      "options" : [ "Lime green", "Dark green", "Blue", "White", "Red", "Orange", "Custom" ],
+      "title" : "Crewmate colour"
+    } ]
+  }, {
+    "description" : "Handmade resin character from the game, Among Us. </br> Comes with a Hat of your choice form the available selected </br> The pieces included are: </br> 1x Character body </br> 1x Hat ",
+    "disabled" : true,
+    "disabledMessage" : "SOLD OUT",
+    "imageUrl" : "assets/images/products/product_six.png",
+    "images" : [ "assets/images/products/product_one.png", "assets/images/products/product_two.png" ],
+    "price" : 30,
+    "productCode" : "AMU-03",
+    "productId" : 3,
+    "productLocation" : "Figure",
+    "productName" : "Crewmate Set",
+    "productType" : "Among Us",
+    "releaseDate" : "March 19, 2019",
+    "selections" : [ {
+      "description" : "The hat for the crewmate",
+      "options" : [ "Wizard", "Cheese", "Viking", "Pool Ring", "Leaf", "Custom" ],
+      "title" : "Crewmate hat"
+    }, {
+      "description" : "The colour of the crewmate",
+      "options" : [ "Lime green", "Dark green", "Blue", "White", "Red", "Orange", "Custom" ],
+      "title" : "Crewmate colour"
+    } ]
+  }, {
+    "description" : "This is for a modification of a Funko Pop vinyl figure into a custom design of your choice. Each custom figure is customised using Sculpey Polymer clay and Axpoxie Sculpt. Then hand painted with Golden Acrylic paints.",
+    "disabled" : true,
+    "disabledMessage" : "SOLD OUT",
+    "imageUrl" : "assets/images/products/product_seven.png",
+    "price" : 75,
+    "productCode" : "CFP-01",
+    "productId" : 4,
+    "productLocation" : "Figure",
+    "productName" : "Custom Single Character",
+    "productType" : "Funko Pop",
+    "releaseDate" : "March 19, 2019"
+  }, null, {
+    "description" : "$30 - $90 usd + shipping </br></br> Each custom figure is made from Sculpey Polymer clay and Axpoxie Sculpt. </br></br> Then hand painted with Golden Acrylic paints. </br></br> In this price is for smaller figure with simple shape such as pokemon characters or animals or anime chibi characters under 15cm in height. Each character is crafted with your input and regular progress updates via email, Instagram or Facebook. There is additional cost associated with base style and added details but a simple base is included in the quoted price. </br></br> For quoting please and rough sketch or idea with reference material is required. </br></br> Please enquire about resin casting and bulk copies.",
+    "disabled" : true,
+    "disabledMessage" : "",
+    "imageUrl" : "assets/images/products/product_seven.png",
+    "price" : "",
+    "productCode" : "CFP-01",
+    "productId" : 6,
+    "productLocation" : "Misc",
+    "productName" : "Small Custom Figure",
+    "productType" : "Custom",
+    "releaseDate" : "March 19, 2019"
+  }, {
+    "description" : "$90 - $250 usd + shipping </br></br> Each custom figure is made from Sculpey Polymer clay and Axpoxie Sculpt. </br></br> Then hand painted with Golden Acrylic paints. </br></br> In this price is for smaller figure with simple shape such as pokemon characters or animals or anime chibi characters under 15cm in height. Each character is crafted with your input and regular progress updates via email, Instagram or Facebook. There is additional cost associated with base style and added details but a simple base is included in the quoted price. </br></br> For quoting please and rough sketch or idea with reference material is required. </br></br> Please enquire about resin casting and bulk copies.",
+    "disabled" : true,
+    "disabledMessage" : "",
+    "imageUrl" : "assets/images/products/product_eight.png",
+    "price" : "",
+    "productCode" : "CFP-01",
+    "productId" : 7,
+    "productLocation" : "Misc",
+    "productName" : "Medium Custom Figure",
+    "productType" : "Custom",
+    "releaseDate" : "March 19, 2019"
+  }, {
+    "description" : "$250+ usd + shipping </br></br> Each custom figure is made from Sculpey Polymer clay and Axpoxie Sculpt. </br></br> Then hand painted with Golden Acrylic paints. </br></br> In this price is for smaller figure with simple shape such as pokemon characters or animals or anime chibi characters under 15cm in height. Each character is crafted with your input and regular progress updates via email, Instagram or Facebook. There is additional cost associated with base style and added details but a simple base is included in the quoted price. </br></br> For quoting please and rough sketch or idea with reference material is required. </br></br> Please enquire about resin casting and bulk copies.",
+    "disabled" : true,
+    "disabledMessage" : "",
+    "imageUrl" : "assets/images/products/product_nine.png",
+    "price" : "",
+    "productCode" : "CFP-01",
+    "productId" : 8,
+    "productLocation" : "Misc",
+    "productName" : "Large Custom Figure",
+    "productType" : "Custom",
+    "releaseDate" : "March 19, 2019"
+  } ]
+}
